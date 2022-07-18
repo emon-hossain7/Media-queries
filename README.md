@@ -5,8 +5,8 @@ Responsive Web Design Media Queries. Media queries is a feature of CSS 3 allowin
 
 List of React:
 
-- [useIt](#useIt)
-- [useBootstrap](#useBootstrap)
+- [useIt](#useIt) // I recommend using this
+- [useBootstrap](#useBootstrap) // Use it if you want
 
 // Delete any breakpoints you don't need.
 
