@@ -30,7 +30,7 @@ List of React:
 
 }
 
-/* SM Small Device :550px. */
+/* SM Small Device :320px. */
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 
 }
