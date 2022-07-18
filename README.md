@@ -12,7 +12,7 @@ List of React:
 
 ### useIt
 
-// It's better than Bootstrap Media Queries for Mobile
+// It's better than Bootstrap Media Queries for Mobile Device
 
 ```css
 /* =============================
