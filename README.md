@@ -15,9 +15,9 @@ List of React:
 // It's better than Bootstrap Media Queries for Mobile
 
 ```css
-/* ==========================
-=====Responsive Css Here=====
-========================== */
+/* =============================
+===Responsive CSS starts here===
+============================= */
 /* XL/XXL Device :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 
@@ -49,7 +49,7 @@ List of React:
 // X-Small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
-```js
+```css
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) { ... }
 
