@@ -66,40 +66,6 @@ List of React:
 @media (min-width: 1400px) { ... }
 ```
 
-### Table
-<div class="overflow-x-auto">
-  <table class="table w-full">
-    <!-- head -->
-    <thead>
-      <tr>
-        <th></th>
-        <th>Questions</th>
-        <th>Answer</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- row 1 -->
-      <tr>
-        <th>1</th>
-        <td>setCount(count + 1)</td>
-        <td>asynchronous</td>
-      </tr>
-      <!-- row 2 -->
-      <tr>
-        <th>2</th>
-        <td>Hart Hagerty</td>
-        <td>Desktop Support Technician</td>
-      </tr>
-      <!-- row 3 -->
-      <tr>
-        <th>3</th>
-        <td>Brice Swyre</td>
-        <td>Tax Accountant</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 
 
 ## 🌐 Socials: Connect with Emon Hossain!
