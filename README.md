@@ -8,6 +8,8 @@ List of React:
 - [useIt](#useIt)
 - [useBootstrap](#useBootstrap)
 
+// Delete any breakpoints you don't need.
+
 ### useIt
 
 // It's better than Bootstrap Media Queries for Mobile
