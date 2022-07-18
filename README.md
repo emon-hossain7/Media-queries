@@ -14,7 +14,7 @@ List of React:
 
 // It's better than Bootstrap Media Queries for Mobile
 
-```js
+```css
 /* XL/XXL (desktop ) Device :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
   // You enter the CSS here for the xl device.
