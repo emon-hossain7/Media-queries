@@ -15,29 +15,27 @@ List of React:
 ```js
 /* XL/XXL (desktop ) Device :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
-
-
+  // You enter the CSS here for the xl device.
 }
 
 /* LG Large Device :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
-
-
+  // You enter the CSS here for the LG device.
 }
 
 /* Tablet Medium Device :768px. */
 @media (min-width: 768px) and (max-width: 991px) { 
-
+  // You enter the CSS here for the Medium device.
 }
 
 /* SM Small Device :550px. */
 @media only screen and (min-width: 320px) and (max-width: 767px) {
-
+ // You enter the CSS here for the Small device.
 }
 
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-
+ // You enter the CSS here for the Large Mobile device.
 }
 ```
 
