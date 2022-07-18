@@ -18,7 +18,7 @@ List of React:
 /* ==========================
 =====Responsive Css Here=====
 ========================== */
-/* XL/XXL (desktop ) Device :1200px. */
+/* XL/XXL Device :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 
 }
